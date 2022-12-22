@@ -1,0 +1,4 @@
+org\application\rest\model\Main.class
+org\application\rest\model\BookingDates.class
+org\application\rest\model\Booking.class
+org\application\rest\model\User.class
